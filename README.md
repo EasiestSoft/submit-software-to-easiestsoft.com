@@ -14,7 +14,7 @@ What makes EasiestSoft.com different
 
 There are many software download sites in the world, other than EasiestSoft.com, nothing special
 
-- Anyone can submit software/solution to EasiestSoft, not just the author of the software
+- Anyone can submit software/solution to EasiestSoft, not just the author of the software, [example](https://easiestsoft.com/web/best-software-find-replace-text-in-multiple-files/)
 
 - EasiestSoft.com is not an ordinary software download site, but a software-related solution provider for beginners
 
@@ -22,12 +22,12 @@ There are many software download sites in the world, other than EasiestSoft.com,
 
 - Submit your software/solution in **markdown** file format, no need to prepare PAD file, no need to fill in the online form. Say goodbye to the old software download sites. Let's fly now
 
-- Submit software/solution on github. This is the 21st century, why do you still need to sign up again and again on the software download sites? waste time
+- [Submit software/solution on github](https://github.com/EasiestSoft/submit-software-to-easiestsoft.com). This is the 21st century, why do you still need to sign up again and again on the software download sites? waste time
 
 We are prefer special software (Free-willed software)
 -----------
 
-EasistSoft.com is a special website, of course we are prefer special solutions/software
+[EasistSoft.com](https://easiestsoft.com) is a special website, of course we are prefer special solutions/software
 
 - A software may not be the best to do one thing, but it is so special to accomplish such a thing, just submit it to us with detailed guide
 - You know a solution that can easily accomplish a specific task, and there are no very detailed tutorials on the web, and you don't want to maintain a personal blog yourself, you can submit it to EasiestSoft
@@ -39,10 +39,10 @@ Main steps to submit software/solution to EasiestSoft
 ----------
 
 - [Fork us](https://github.com/EasiestSoft/submit-software-to-easiestsoft.com) on github
-- Create your feature branch (git checkout -b how-to-do-something)
-- Commit your changes (git commit -am 'Submit how-to-do-something')
-- Push to the branch (git push origin how-to-do-something)
-- Create a new Pull Request on Github.com
+- Create your feature branch (`git checkout -b how-to-do-something`)
+- Commit your changes (`git commit -am 'Submit how-to-do-something'`)
+- Push to the branch (`git push origin how-to-do-something`)
+- Create a new Pull Request on [Github.com](https://github.com/EasiestSoft/submit-software-to-easiestsoft.com)
 
 How to write a solution on a local PC:
 ---------------
@@ -52,14 +52,14 @@ How to write a solution on a local PC:
   - `win` directory: Windows-specific solutions
   - `mac` directory: Mac-specific solutions, currently unavailable
 - Create a solution directory under `web` or `win` folder
-  - For example `web/best-software-find-replace-text-in-multiple-files`
+  - For example [web/best-software-find-replace-text-in-multiple-files](https://github.com/EasiestSoft/submit-software-to-easiestsoft.com/tree/master/web/best-software-find-replace-text-in-multiple-files)
 
     `best-software-find-replace-text-in-multiple-files` is the solution directory, it should be relevant to the search keywords, and contains at least 5 English words separated by `-`. The directory name should not begin with number(0-9) or `a-`
 
     Be careful not to insert the software brand or name in the file name
 - Create sub-directories and `index.md`
-  - `best-software-find-replace-text-in-multiple-files/index.md` you write your solution in `index.md`
-  - `best-software-find-replace-text-in-multiple-files/img` images directory for your solution
+  - [best-software-find-replace-text-in-multiple-files/index.md](https://raw.githubusercontent.com/EasiestSoft/submit-software-to-easiestsoft.com/master/web/best-software-find-replace-text-in-multiple-files/index.md) you write your solution in `index.md`
+  - [best-software-find-replace-text-in-multiple-files/img](https://github.com/EasiestSoft/submit-software-to-easiestsoft.com/tree/master/web/best-software-find-replace-text-in-multiple-files/img) images directory for your solution
 
     Static images can only be in `.png` format, image maximum width is 600px, image size up to 60KB
 
@@ -68,7 +68,7 @@ How to write a solution on a local PC:
 
     As we do not host binaries currently, please don't put binaries in it
 
-- `index.md` consists of 5 parts
+- [index.md](https://raw.githubusercontent.com/EasiestSoft/submit-software-to-easiestsoft.com/master/web/best-software-find-replace-text-in-multiple-files/index.md) consists of 5 parts
    - Title
 
           This is the document title relevant to the search keywords (usually there is no software brand or name here)
@@ -119,7 +119,7 @@ Host binaries on EasiestSoft.com
 Currently we do not host binaries, but we can do it if one of the following conditions is met:
 
 - Portable freeware with binary file size less than 5MB, and set the EasiestSoft solution URL as the software homepage
-- A really special and small size freeware, the author does not have a personal website, or the author may abandon the homepage in the future
+- A really special and small size freeware, the author does not have a personal website, or the author may abandon the homepage in the near future
 - Other special cases
 
 Notes
@@ -127,7 +127,8 @@ Notes
 
 - All directory names and file names should be lowercase
 - We do not accept commercial software, Adware, Malware, video converter/editor
+- Solutions that link to unsafe page or to non-https pages will be rejected
 - Usually we only accept English interface software, unless people can use it by following your very detailed tutorial
-- You can zip compress and send your solution to `submit at easiestsoft.com` with the subject `submit the-solution-folder-name` If you don't want to use github
+- You can zip compress and send your solution to email address: `submit at easiestsoft.com` with the subject `submit the-solution-folder-name` If you don't want to use github
 
 2019-12-22 by King Eca
