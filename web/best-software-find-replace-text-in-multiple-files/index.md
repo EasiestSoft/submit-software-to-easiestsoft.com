@@ -3,7 +3,7 @@ Best Search and Replace Text in multiple files Tool on Windows/Mac/Linux
 
 Find all files in a directory, replace text, preview results, optional regular expression mode - freeware _VS Code_
 
-[Free Download (for Win, Mac, Linux)](https://code.visualstudio.com/download)
+[Free Download (Windows, Mac and Linux)](https://code.visualstudio.com/download)
 ----------
 
 Suppose you have the following folder structure:

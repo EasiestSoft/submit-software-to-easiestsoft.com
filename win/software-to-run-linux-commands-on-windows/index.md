@@ -41,11 +41,11 @@ Generally, Linux commands have some operations and options, each operation/optio
           pacman {-S --sync}     [options] [package(s)]
           pacman {-T --deptest}  [options] [package(s)]
           pacman {-U --upgrade}  [options] <file(s)>
-  
+
       use 'pacman {-h --help}' with an operation for available options
 
 - Help for `--sync` operation:
-  
+
       $ pacman --help --sync
       usage:  pacman {-S --sync} [options] [package(s)]
       options:
@@ -173,7 +173,7 @@ I installed Git for Windows before and selected Git Bash as the default shell fo
 
     {
         "files.autoSave": "afterDelay",
-        "files.eol": "\n"        
+        "files.eol": "\n"
         "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe"
     }
 
@@ -222,7 +222,7 @@ We add our custom path to `~/.bashrc` (Not ~/.profile)
     ~ $ vim ./.bashrc
 
 ![Edit PATH environment variable of MSYS2](img/msys2-edit-path-environment-variable-bashrc.png)
-    
+
 Check the result:
 
     ~ $ source ./.bashrc
@@ -261,8 +261,8 @@ Enter:
 
 ![Windows 10 mklink directory junction](img/windows10-mklink-directory-junction.png)
 
-Now we can: 
-  
+Now we can:
+
   - `cd ~/Dropbox` to quickly access Dropbox folder
   - And `start .` to open the Dropbox folder from MSYS2 bash in Explorer
 

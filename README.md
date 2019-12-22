@@ -38,7 +38,7 @@ EasistSoft.com is a special website, of course we are prefer special solutions/s
 Main steps to submit software/solution to EasiestSoft
 ----------
 
-- Fork us on github
+- [Fork us](https://github.com/EasiestSoft/submit-software-to-easiestsoft.com) on github
 - Create your feature branch (git checkout -b how-to-do-something)
 - Commit your changes (git commit -am 'Submit how-to-do-something')
 - Push to the branch (git push origin how-to-do-something)
