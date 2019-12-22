@@ -101,9 +101,9 @@ How to write a solution on a local PC:
       - Date format: `YYYY-MM-DD`, should be on the far left of the last line
       - Author: your name
 
-- [starts](https://github.com/EasiestSoft/submit-software-to-easiestsoft.com/tree/master/stars): introduce yourself to the reader (optional)
+- [stars](https://github.com/EasiestSoft/submit-software-to-easiestsoft.com/tree/master/stars): introduce yourself to the reader (optional)
 
-  Create a folder under `starts` directory, name it with your name, for example:
+  Create a folder under `stars` directory, name it with your name, for example:
 
   `stars/donald-trump/index.md`
 
