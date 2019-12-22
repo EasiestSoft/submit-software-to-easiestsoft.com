@@ -1,0 +1,11 @@
+Windows Registry Editor Version 5.00
+
+; Created by: King Eca
+; Created on: 2019-12-17
+; Tutorial: https://easiestsoft.com/win/software-to-run-linux-commands-on-windows/
+
+[-HKEY_CLASSES_ROOT\Directory\Background\shell\msys]
+[-HKEY_CLASSES_ROOT\Directory\Background\shell\msys\command]
+[-HKEY_CLASSES_ROOT\Directory\shell\msys]
+[-HKEY_CLASSES_ROOT\Directory\shell\msys\command]
+
