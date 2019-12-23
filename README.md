@@ -125,7 +125,7 @@ Currently we do not host binaries, but we can do it if one of the following cond
 - A really special and small size freeware, the author does not have a personal website, or the author may abandon the homepage in the near future
 - Other special cases
 
-Notes
+Caveats
 -----
 
 - All directory names and file names should be lowercase
