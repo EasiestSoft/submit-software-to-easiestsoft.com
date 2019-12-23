@@ -101,4 +101,4 @@ Search and Replace text in many files with Regex (Regular Expression)
   It seems I am the first person in the world to actively avoid such unnecessary thing
 
 
-2019-12-15 by [King Eca](../../stars/a-king-eca/index.md)
+2019-12-15 [King Eca](../../stars/a-king-eca/index.md)

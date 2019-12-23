@@ -30,9 +30,13 @@ We are prefer special software (Free-willed software)
 [EasistSoft.com](https://easiestsoft.com) is a special website, of course we are prefer special solutions/software
 
 - A software may not be the best to do one thing, but it is so special to accomplish such a thing, just submit it to us with detailed guide
+
 - You know a solution that can easily accomplish a specific task, and there are no very detailed tutorials on the web, and you don't want to maintain a personal blog yourself, you can submit it to EasiestSoft
+
 - From a certain point of view, one software may not be the best, but it does the work in a special way, you can write a detailed tutorial for it and share it with the world through us
+
 - A software with special User Interface, not everyone likes it, but you really love it, you can write a beginner-friendly guide for it and send it to EasiestSoft
+
 - Other special reasons that you think are worth pushing the solution to the world
 
 Main steps to submit software/solution to EasiestSoft
@@ -50,7 +54,6 @@ How to write a solution on a local PC:
 - Determine the parent directory
   - `web` directory: for cross-platform solutions (Windows, Mac and Linux), or server side/web related solutions
   - `win` directory: Windows-specific solutions
-  - `mac` directory: Mac-specific solutions, currently unavailable
 - Create a solution directory under `web` or `win` folder
   - For example [web/best-software-find-replace-text-in-multiple-files](https://github.com/EasiestSoft/submit-software-to-easiestsoft.com/tree/master/web/best-software-find-replace-text-in-multiple-files)
 
@@ -96,7 +99,7 @@ How to write a solution on a local PC:
   - Main document
   - footer, the last line of the document, for example:
 
-     `2019-12-22 by King Eca`
+     `2019-12-22 King Eca`
 
       - Date format: `YYYY-MM-DD`, should be on the far left of the last line
       - Author: your name
@@ -111,7 +114,7 @@ How to write a solution on a local PC:
 
   You can link to the `index.md` in your contribution like this:
 
-      2019-12-22 by [Donald Trump](../../stars/donald-trump/index.md)
+      2019-12-22 [Donald Trump](../../stars/donald-trump/index.md)
 
 Host binaries on EasiestSoft.com
 --------
@@ -131,4 +134,4 @@ Notes
 - Usually we only accept English interface software, unless people can use it by following your very detailed tutorial
 - You can zip compress and send your solution to email address: `submit at easiestsoft.com` with the subject `submit the-solution-folder-name` If you don't want to use github
 
-2019-12-22 by King Eca
+2019-12-22 King Eca

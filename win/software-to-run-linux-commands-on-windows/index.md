@@ -12,7 +12,7 @@ I installed it on Windows 10, so I chose the x86_64 version
 
 After downloading, I will set up the mirror site of MSYS2 in `C:\msys64\etc\pacman.d` directory because there are mirrors of MSYS2 near my location, you can usually skip this step
 
-Install MSYS2 by following the guide at the download page
+Install MSYS2 following the guide at the download page
 
 For the 64 bit version, the default location of the MSYS2 installation is `C:\msys64`
 
@@ -305,4 +305,4 @@ Links:
 - <https://www.tenforums.com/tutorials/59686-open-command-window-here-administrator-add-windows-10-a.html>
 - <https://www.booleanworld.com/get-unix-linux-environment-windows-msys2/>
 
-2019-12-19 by [King Eca](../../stars/a-king-eca/index.md)
+2019-12-19 [King Eca](../../stars/a-king-eca/index.md)
