@@ -23,9 +23,9 @@ Generally, Linux commands have some operations and options, each operation/optio
 
 `pacman -Syu`, `S` is a shorter versions of a operation, `y` and `u` are shorter versions of two options. When you first saw it, did you know what it meant? Bad for beginners!
 
-**The best tutorial is no tutorial required**, the command with the same effect but a longer version is `pacman --sync --refresh --sysupgrade` we can directly guess what it means
+**The best tutorial is that no tutorial is needed**, the command with the same effect but a longer version is `pacman --sync --refresh --sysupgrade` we can directly guess what it means
 
-**Tutorials on the web should always show the longer version of command/operation**, while one can still use the shorter version at home
+**Tutorials on the web should always show the long version of commands/operations**, while one can still use the short version at home
 
 - Help for pacman:
 

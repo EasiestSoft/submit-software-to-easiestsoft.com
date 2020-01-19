@@ -1,13 +1,13 @@
 How to submit software/solution to EasiestSoft.com
 ===========
 
-Basically, humans may not have much free will
+Humans may not have much free will
 
-You thoughts and behaviors are not so different from those of other people in the world. Your environment and your past experience determine how your think and behave
+Your thoughts and behaviours are not so different from those of other people in the world. The environment and your experience determine how you think and behave
 
 We can increase our free will by doing something special
 
-King Eca treats people with special personalities as **free-willed people** and software with special personalities as **free-willed software**
+People with special personalities are **free-willed people** and software with special personalities are **free-willed software**
 
 What makes EasiestSoft.com different
 --------
@@ -20,29 +20,27 @@ There are many software download sites in the world, other than EasiestSoft.com,
 
   In most cases, people search for solutions to help them get their work done quickly, and once we realize this, we focus on providing **very detailed tutorials/solutions for beginners**, not just list many software names on site
 
-- Submit your software/solution in **markdown** file format, no need to prepare PAD file, no need to fill in the online form. Say goodbye to the old software download sites. Let's fly now
+- Submit your software/solution in **markdown** file format, no need to prepare a PAD file, no need to fill in the online form. Say goodbye to the old software download sites. Let's fly now
 
 - [Submit software/solution on github](https://github.com/EasiestSoft/submit-software-to-easiestsoft.com). This is the 21st century, why do you still need to sign up again and again on the software download sites? waste time
 
-We are prefer special software (Free-willed software)
+We prefer special software (Free-willed software)
 -----------
 
-[EasistSoft.com](https://easiestsoft.com) is a special website, of course we are prefer special solutions/software
+[EasistSoft.com](https://easiestsoft.com) is a special website, of course, we prefer special solutions/software
 
-- A software may not be the best to do one thing, but it is so special to accomplish such a thing, just submit it to us with detailed guide
+- The software may not be the best to do one thing, but it is so special to accomplish such a thing, just submit it to us with a detailed guide
 
 - You know a solution that can easily accomplish a specific task, and there are no very detailed tutorials on the web, and you don't want to maintain a personal blog yourself, you can submit it to EasiestSoft
 
-- From a certain point of view, one software may not be the best, but it does the work in a special way, you can write a detailed tutorial for it and share it with the world through us
-
-- A software with special User Interface, not everyone likes it, but you really love it, you can write a beginner-friendly guide for it and send it to EasiestSoft
+- A software with special User Interface, not everyone likes it, but you love it, you can write a beginner-friendly guide for it and send it to EasiestSoft
 
 - Other special reasons that you think are worth pushing the solution to the world
 
 Main steps to submit software/solution to EasiestSoft
 ----------
 
-- [Fork us](https://github.com/EasiestSoft/submit-software-to-easiestsoft.com) on github
+- [Fork us](https://github.com/EasiestSoft/submit-software-to-easiestsoft.com) on GitHub
 - Create your feature branch (`git checkout -b how-to-do-something`)
 - Commit your changes (`git commit -am 'Submit how-to-do-something'`)
 - Push to the branch (`git push origin how-to-do-something`)
@@ -57,7 +55,7 @@ How to write a solution on a local PC:
 - Create a solution directory under `web` or `win` folder
   - For example [web/best-software-find-replace-text-in-multiple-files](https://github.com/EasiestSoft/submit-software-to-easiestsoft.com/tree/master/web/best-software-find-replace-text-in-multiple-files)
 
-    `best-software-find-replace-text-in-multiple-files` is the solution directory, it should be relevant to the search keywords, and contains at least 5 English words separated by `-`. The directory name should not begin with number(0-9) or `a-`
+    `best-software-find-replace-text-in-multiple-files` is the solution directory, it should be relevant to the search keywords, and contains at least 5 English words separated by `-`. The directory name should not begin with a number(0-9) or `a-`
 
     Be careful not to insert the software brand or name in the file name
 - Create sub-directories and `index.md`
@@ -119,10 +117,10 @@ How to write a solution on a local PC:
 Host binaries on EasiestSoft.com
 --------
 
-Currently we do not host binaries, but we can do it if one of the following conditions is met:
+Currently, we do not host binaries, but we can do it if one of the following conditions is met:
 
-- Portable freeware with binary file size less than 5MB, and set the EasiestSoft solution URL as the software homepage
-- A really special and small size freeware, the author does not have a personal website, or the author may abandon the homepage in the near future
+- Portable freeware with a binary file size less than 5MB, and set the EasiestSoft solution URL as the software homepage
+- A special and small size freeware, the author does not have a personal website or the author may abandon the homepage soon
 - Other special cases
 
 Caveats
@@ -130,8 +128,8 @@ Caveats
 
 - All directory names and file names should be lowercase
 - We do not accept commercial software, Adware, Malware, video converter/editor
-- Solutions that link to unsafe page or to non-https pages will be rejected
-- Usually we only accept English interface software, unless people can use it by following your very detailed tutorial
-- You can zip compress and send your solution to email address: `submit at easiestsoft.com` with the subject `submit the-solution-folder-name` If you don't want to use github
+- Solutions that link to unsafe pages or non-https pages will be rejected
+- Usually, we only accept English interface software, unless people can use it by following your very detailed tutorial
+- You can zip compress and send your solution to email address: `submit at easiestsoft.com` with the subject `submit the-solution-folder-name` If you don't want to use GitHub
 
-2019-12-22 King Eca
+2019-12-22

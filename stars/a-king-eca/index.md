@@ -1,15 +1,16 @@
 Who is King Eca
 ========
 
-Basically, I'm a philosopher (I want to be one of the greatest philosophers), not a programmer, but I like programming because programming gives me more freedom than anything else. I think modern philosophers should learn programming
+I'm a special scientific philosopher, not a programmer, but I like programming because programming gives me more freedom than anything else. I think modern philosophers should learn to programme
 
-My dream is to build a greatest country on earth
+My dream is to [build a greatest country on earth](https://easiestsoft.com/we-create-heaven/)
 
 Why?
 
-- Because the present human being has lost its way, the future of humanity is dark
-- I am the greatest philosopher of all time(Who knows? at least I know:)
+- Because the present human being has lost the way, the future of humanity is dark
+<!-- - I am the greatest science philosopher ever-->
 
+Contact me: <img src=img/email-king-eca.png height=23>
 
 My Contributions
 ---------
@@ -27,4 +28,4 @@ I'm the author of the following articles:
 - [Best Way to Run Linux Commands on Windows 10 - MSYS2](../../win/software-to-run-linux-commands-on-windows/index.md)
 - [How to Command Line find file with name/extension/date/size on Windows/Mac - fd](../../web/command-line-find-file-with-name-extension-size-in-directory/index.md)
 - [Replace String in File from Command Line - Win/Mac/Linux - sd](./web/command-line-search-replace-string-in-file/index.md)
-- 
+- ...
